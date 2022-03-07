@@ -7,9 +7,8 @@
 <div>
   <a href="https://github.com/EoSingle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eosingle&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eosingle&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eosingle&langs_count=8&theme=gotham"/>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="28" width="94" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lucas-MySQL" height="28" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
