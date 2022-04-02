@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="28" width="94" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lucas-MySQL" height="28" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Lucas-C" height="28" width="47" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Lucas-windows" height="28" width="110" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Lucas-ubuntu" height="28" width="94" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/444645832718024704/950534166087360542/ezgif-1-5f225a4d67.gif?width=468&height=468">
