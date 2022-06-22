@@ -1,8 +1,8 @@
 # Quem é Lucas Albano? 🐱‍👤
 
-- Atualmente estou iniciando minha graduação em Sistemas de Informação na UFMG e estou buscando uma base sólida para atuar na área de Data Science. 🐱‍💻
+- Graduando em Sistemas de Informação mirando em uma carreira de Engenheiro de Dados. 🐱‍💻
 - Uso o github para documentar minha evolução e como ferramenta de estudo.  😸
-- Atualmente estudando Python e SQL. 😼
+- Atualmente estudando Cybersecurity e análise de dados com Python e Jupyter Notebook. 😼
 
 <div>
   <a href="https://github.com/EoSingle">
@@ -10,12 +10,13 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eosingle&langs_count=8&theme=gotham"/>
  
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-C" height="28" width="47" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Lucas-Python" height="28" width="94" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lucas-MySQL" height="28" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Lucas-C" height="28" width="47" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Lucas-windows" height="28" width="110" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="Lucas-ubuntu" height="28" width="94" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/444645832718024704/950534166087360542/ezgif-1-5f225a4d67.gif?width=468&height=468">
+  <img align="center" alt="vscode" height="28" width="191" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="logo-arch-linux" height="28" width="124" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  
+  <!-- <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/444645832718024704/950534166087360542/ezgif-1-5f225a4d67.gif?width=468&height=468"> -->
 </div>
  
 ##
