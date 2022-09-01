@@ -2,7 +2,7 @@
 
 - Graduando em Sistemas de Informação mirando em uma carreira de Engenheiro de Dados. 🐱‍💻
 - Uso o github para documentar minha evolução e como ferramenta de estudo.  😸
-- Atualmente estudando Cybersecurity e análise de dados com Python e Jupyter Notebook. 😼
+- Atualmente estudando Cybersecurity e POO 😼
 
 <div>
   <a href="https://github.com/EoSingle">
