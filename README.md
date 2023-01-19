@@ -16,7 +16,6 @@
   <img align="center" alt="vscode" height="28" width="191" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="logo-arch-linux" height="28" width="124" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   
-  <!-- <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/444645832718024704/950534166087360542/ezgif-1-5f225a4d67.gif?width=468&height=468"> -->
 </div>
  
 ##
