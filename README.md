@@ -1,8 +1,8 @@
 # Quem é Lucas Albano? 🐱‍👤
 
-- Graduando em Sistemas de Informação mirando em uma carreira de Engenheiro de Dados. 🐱‍💻
+- Graduando em Sistemas de Informação mirando em uma carreira de Cybersecurity. 🐱‍💻
 - Uso o github para documentar minha evolução e como ferramenta de estudo.  😸
-- Atualmente estudando Cybersecurity e POO 😼
+- Atualmente estudando Cybersecurity, Estruturas de Dados, e Bancos de Dados 😼
 
 <div>
   <a href="https://github.com/EoSingle">
