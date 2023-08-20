@@ -1,9 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F700&center=true&vCenter=true&width=435&lines=%3E+Who+is+Lucas+Albano%3F)](https://git.io/typing-svg)
 
-- Information Systems student at UFMG aiming for a Cybersecurity career 🛡️
-- Currently doing scientific initiation 🔍
-- I'm in the 4th semester of college doing the subjects Algorithms I, Cybersecurity, Computer Organization I, Information Users and Human Resources Administration 📚
-- I'm not programming much lately haha 😅
+```C++
+#include <iostream>
+#include <string>
+
+int main(int argc, char* argv[]){
+    std::cout << "Information Systems student at UFMG aiming for a Cybersecurity career" << std::endl;
+    std::cout << "Currently doing scientific initiation" << std::endl;
+    std::string subjects = "Algorithms I, Cybersecurity, Computer Organization I, Information Users and Human Resources Administration";
+    std::cout << "I'm in the 4th semester of college doing the subjects " << subjects << std::endl;
+    std::cout << "I'm not programming much lately haha" << std::endl;
+
+    // g++ -o lucas albano.cpp
+    // ./lucas
+
+    return 0;
+}
+```
 
 <div>
   <a href="https://github.com/EoSingle">
