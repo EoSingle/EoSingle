@@ -43,5 +43,5 @@ int main(int argc, char* argv[]){
   <a href="https://www.linkedin.com/in/lucasaoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://pt.stackoverflow.com/users/278575/lucas-albano" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target='blank'></a>
   
-  ![Snake animation](https://github.com/EoSingle/EoSingle/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EoSingle/EoSingle/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
