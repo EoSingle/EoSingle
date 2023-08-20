@@ -33,7 +33,7 @@ int main(int argc, char* argv[]){
  
 ##
   
-### Contact me:
+### My social networks:
   
 <div>
   <a href="https://twitter.com/LucasAOC_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
