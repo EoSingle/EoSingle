@@ -12,8 +12,8 @@
 int main(int argc, char* argv[]){
     std::cout << "Information Systems student at UFMG aiming for a Cybersecurity career" << std::endl;
     std::cout << "Currently doing scientific initiation" << std::endl;
-    std::string subjects = "Algorithms I, Cybersecurity, Computer Organization I, Information Users and Human Resources Administration";
-    std::cout << "I'm in the 4th semester of college doing the subjects " << subjects << std::endl;
+    std::string subjects = "PRODUCTION ADMINISTRATION, INTRODUCTION TO ACCOUNTING, PROGRAMMING LANGUAGES, HUMAN-COMPUTER INTERACTION and ORGANIZATION AND PROCESSING OF INFORMATION";
+    std::cout << "I'm in the 5th semester of college doing the subjects " << subjects << std::endl;
     std::cout << "I'm not programming much lately haha" << std::endl;
 
     // g++ -o lucas albano.cpp
