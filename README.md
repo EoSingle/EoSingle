@@ -12,7 +12,13 @@
 int main(int argc, char* argv[]){
     std::cout << "Information Systems student at UFMG aiming for a Cybersecurity career" << std::endl;
     std::cout << "Currently doing scientific initiation" << std::endl;
-    std::string subjects = "Computer Networks, Introduction to Deep Learning, Game Development, Software Engineering II, Computer Ethics, Computing and Society, Financial Administration";
+    std::string subjects = "Computer Networks,
+                            Introduction to Deep Learning,
+                            Game Development,
+                            Software Engineering II,
+                            Computer Ethics,
+                            Computing and Society,
+                            Financial Administration";
     std::cout << "I'm in the 7th semester of college doing the subjects " << subjects << std::endl;
     std::cout << "I'm not programming much lately haha" << std::endl;
 
