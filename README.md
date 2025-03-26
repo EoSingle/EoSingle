@@ -7,23 +7,35 @@
 
 ```C++
 #include <iostream>
-#include <string>
+#include <cstdlib>
 
-int main(int argc, char* argv[]){
-    std::cout << "Information Systems student at UFMG aiming for a Cybersecurity career" << std::endl;
-    std::cout << "Currently doing scientific initiation" << std::endl;
-    std::string subjects = "Computer Networks,
-                            Introduction to Deep Learning,
-                            Game Development,
-                            Software Engineering II,
-                            Computer Ethics,
-                            Computing and Society,
-                            Financial Administration";
-    std::cout << "I'm in the 7th semester of college doing the subjects " << subjects << std::endl;
-    std::cout << "I'm not programming much lately haha" << std::endl;
+// g++ -o lucas albano.cpp
+// ./lucas
 
-    // g++ -o lucas albano.cpp
-    // ./lucas
+int main() {
+    constexpr const char* bio = 
+        "Information Systems student at UFMG aiming for a Cybersecurity career.\n"
+        "Currently doing scientific initiation.\n";
+
+    constexpr const char* subjects = 
+        "I'm in the 7th semester of college doing the subjects:\n"
+        " - Computer Networks\n"
+        " - Introduction to Deep Learning\n"
+        " - Game Development\n"
+        " - Software Engineering II\n"
+        " - Computer Ethics\n"
+        " - Computing and Society\n"
+        " - Financial Administration\n";
+
+    constexpr const char* status = 
+        "[  0.000001 ] Kernel Panic - Fatal Error\n"
+        "[  0.000002 ] Too many deadlines, not enough sleep.\n"
+        "[  0.000003 ] System halted.\n";
+
+    std::cout << bio << '\n' << subjects << '\n';
+
+    std::cerr << status << std::endl;
+    std::exit(EXIT_FAILURE); 
 
     return 0;
 }
