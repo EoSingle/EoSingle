@@ -21,7 +21,7 @@ int main() {
         "I'm in the 8th semester of college doing the subjects:\n"
         " - Machine Learning A\n"
         " - Natural Language Processing\n"
-        " - Modern Operating Systems\n"
+        " - Advanced Operating Systems\n"
         " - Marketing Management\n"
         " - Monograph in Information Systems I\n"
         " - Instrumental English I\n";
