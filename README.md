@@ -18,13 +18,12 @@ int main() {
         "Currently doing scientific initiation.\n";
 
     constexpr const char* subjects = 
-        "I'm in the 8th semester of college doing the subjects:\n"
-        " - Machine Learning A\n"
-        " - Natural Language Processing\n"
-        " - Advanced Operating Systems\n"
-        " - Marketing Management\n"
-        " - Monograph in Information Systems I\n"
-        " - Instrumental English I\n";
+        "I'm in the 9th (and i hope the final) semester of college doing the subjects:\n"
+        " - Monograph in Information Systems II\n"
+        " - Software Testing\n"
+        " - Entrepreneurship in Information Technology\n"
+        " - Data Science Applied to Soccer\n"
+        " - Instrumental English II\n";
 
     constexpr const char* status = 
         "[  0.000001 ] Kernel Panic - Fatal Error\n"
