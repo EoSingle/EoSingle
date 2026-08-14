@@ -36,16 +36,7 @@ B.Sc. in Information Systems from the Federal University of Minas Gerais (UFMG),
 
 ## stack
 
-<img height="28" src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/c%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/arch_linux-000000?style=flat-square&logo=arch-linux&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/kali_linux-000000?style=flat-square&logo=kali-linux&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/wireshark-000000?style=flat-square&logo=wireshark&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/hackthebox-000000?style=flat-square&logo=hackthebox&logoColor=white&labelColor=000000">
-<img height="28" src="https://img.shields.io/badge/tryhackme-000000?style=flat-square&logo=tryhackme&logoColor=white&labelColor=000000">
-
-<br>
+<img height="28" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/arch_linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/kali_linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/hackthebox-000000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"> <img height="28" src="https://img.shields.io/badge/tryhackme-000000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000">
 
 ## github stats
 
@@ -53,7 +44,7 @@ B.Sc. in Information Systems from the Federal University of Minas Gerais (UFMG),
 
 <img height="150em" src="/assets/stats.svg"/>
 <img height="150em" src="/assets/top-langs.svg"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eosingle&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&stroke=333333"/>
+<img height="150em" src="https://streak-stats.demolab.com/?user=eosingle&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&stroke=333333"/>
 
 </div>
 
@@ -63,11 +54,7 @@ B.Sc. in Information Systems from the Federal University of Minas Gerais (UFMG),
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucasaoc/"><img height="28" src="https://custom-icon-badges.demolab.com/badge/-linkedin-000000?style=flat-square&logo=linkedin-white&logoColor=white&labelColor=000000"></a>
-<a href="mailto:lucasalbano.oc@gmail.com"><img height="28" src="https://img.shields.io/badge/-email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000"></a>
-<a href="https://instagram.com/lucasaoc_/"><img height="28" src="https://img.shields.io/badge/-instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000"></a>
-<a href="https://steamcommunity.com/id/eosingle/"><img height="28" src="https://img.shields.io/badge/-steam-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000"></a>
-<a href="https://open.spotify.com/user/lucasaoc"><img height="28" src="https://img.shields.io/badge/-spotify-000000?style=flat-square&logo=spotify&logoColor=white&labelColor=000000"></a>
+<a href="https://www.linkedin.com/in/lucasaoc/"><img height="28" src="https://custom-icon-badges.demolab.com/badge/-linkedin-000000?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=000000"></a> <a href="mailto:lucasalbano.oc@gmail.com"><img height="28" src="https://img.shields.io/badge/-email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"></a> <a href="https://instagram.com/lucasaoc_/"><img height="28" src="https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"></a> <a href="https://steamcommunity.com/id/eosingle/"><img height="28" src="https://img.shields.io/badge/-steam-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000"></a> <a href="https://open.spotify.com/user/lucasaoc"><img height="28" src="https://img.shields.io/badge/-spotify-000000?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000"></a>
 
 ![Snake animation](https://github.com/EoSingle/EoSingle/raw/output/github-contribution-grid-snake-dark.svg)
 
