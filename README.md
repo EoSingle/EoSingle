@@ -1,62 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F700&center=true&vCenter=true&width=435&lines=%3E+Who+is+Lucas+Albano%3F)](https://git.io/typing-svg)
+<div align="center">
 
+### de omnibus dubitandum est
 
- <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<img src="/assets/1.jpg" width="100%" alt="banner">
 
+#### NE:7K
 
-
-```C++
-#include <iostream>
-#include <cstdlib>
-
-// g++ -o lucas albano.cpp
-// ./lucas
-
-int main() {
-    constexpr const char* bio = 
-        "Information Systems student at UFMG aiming for a Cybersecurity career.\n"
-        "Currently doing scientific initiation.\n";
-
-    constexpr const char* subjects = 
-        "I'm in the 9th (and i hope the final) semester of college doing the subjects:\n"
-        " - Monograph in Information Systems II\n"
-        " - Software Testing\n"
-        " - Entrepreneurship in Information Technology\n"
-        " - Data Science Applied to Soccer\n"
-        " - Instrumental English II\n";
-
-    constexpr const char* status = 
-        "[  0.000001 ] Kernel Panic - Fatal Error\n"
-        "[  0.000002 ] Too many deadlines, not enough sleep.\n"
-        "[  0.000003 ] System halted.\n";
-
-    std::cout << bio << '\n' << subjects << '\n';
-
-    std::cerr << status << std::endl;
-    std::exit(EXIT_FAILURE); 
-
-    return 0;
-}
-
-```
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-<div>
-  <a href="https://github.com/EoSingle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eosingle&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_rank=true&hide=issues"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eosingle&theme=merko&layout=compact"/>
 </div>
- 
-##
-  
-### My social networks:
-  
-<div>
-  <a href="https://www.linkedin.com/in/lucasaoc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:olive.albano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lucasaoc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/eosingle/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target='blank'></a>
-  <a href="https://open.spotify.com/user/lucasaoc" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target='blank'></a>
-  
-  ![Snake animation](https://github.com/EoSingle/EoSingle/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br><br>
+
+---
+
+## about me
+
+<img src="/assets/2.gif" width="40%" align="right">
+
+I'm drawn to challenges, and I approach them like a souls-like game. I've stopped trying to predict what's next — I just focus on doing my best wherever I end up.
+
+<br clear="right">
+<br>
+
+## professional info
+
+<img src="/assets/3.gif" width="40%" align="left">
+
+B.Sc. in Information Systems from the Federal University of Minas Gerais (UFMG), Brazil. 4 years of research experience in AI applied to cybersecurity. I founded a university CTF team called [FireUAI](https://fireuai.com.br) — check it out. I've also dabbled in game dev and a few other corners of the tech industry along the way.
+
+<br clear="left">
+<br>
+
+## stack
+
+![Python](https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/c%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/git-000000?style=flat-square&logo=git&logoColor=white&labelColor=000000)
+![Arch Linux](https://img.shields.io/badge/arch_linux-000000?style=flat-square&logo=arch-linux&logoColor=white&labelColor=000000)
+![Kali Linux](https://img.shields.io/badge/kali_linux-000000?style=flat-square&logo=kali-linux&logoColor=white&labelColor=000000)
+![Wireshark](https://img.shields.io/badge/wireshark-000000?style=flat-square&logo=wireshark&logoColor=white&labelColor=000000)
+![Burp Suite](https://img.shields.io/badge/burp_suite-000000?style=flat-square&labelColor=000000)
+![Nmap](https://img.shields.io/badge/nmap-000000?style=flat-square&labelColor=000000)
+![Metasploit](https://img.shields.io/badge/metasploit-000000?style=flat-square&labelColor=000000)
+
+<br>
+
+## github stats
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=eosingle&show_icons=true&hide_rank=true&hide=issues&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eosingle&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&border_color=333333"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=eosingle&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&stroke=333333"/>
+
+</div>
+
+<br>
+
+## contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/lucasaoc/)
+[![Gmail](https://img.shields.io/badge/-email-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000)](mailto:olive.albano@gmail.com)
+[![Instagram](https://img.shields.io/badge/-instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/lucasaoc_/)
+[![Steam](https://img.shields.io/badge/-steam-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/eosingle/)
+[![Spotify](https://img.shields.io/badge/-spotify-000000?style=flat-square&logo=spotify&logoColor=white&labelColor=000000)](https://open.spotify.com/user/lucasaoc)
+
+![Snake animation](https://github.com/EoSingle/EoSingle/raw/output/github-contribution-grid-snake-dark.svg)
+
 </div>
