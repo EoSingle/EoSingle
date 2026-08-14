@@ -44,7 +44,7 @@ B.Sc. in Information Systems from the Federal University of Minas Gerais (UFMG),
 
 <img height="150em" src="/assets/stats.svg"/>
 <img height="150em" src="/assets/top-langs.svg"/>
-<img height="150em" src="https://streak-stats.demolab.com/?user=eosingle&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888&stroke=333333"/>
+<img height="150em" src="/assets/streak.svg"/>
 
 </div>
 
